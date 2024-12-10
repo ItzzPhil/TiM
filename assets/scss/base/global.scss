@@ -1,0 +1,26 @@
+p + p {
+    margin-top: 1em;
+}
+
+main {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.nowrap {
+    white-space: nowrap;
+}
+
+.lazyLoad:not([fade]) {
+    transition: opacity 0.3s ease-in-out;
+    opacity: 0;
+}
+
+.isLoaded:not([fade]) {
+    opacity: 1;
+}
+
+.lazy-no-anim.lazyLoad,
+.lazy-no-anim .lazyLoad {
+    transition: none;
+}

@@ -1,0 +1,49 @@
+html {
+    overflow-x: hidden;
+    max-width: 100vw;
+    font-family: var(--font-primary);
+    font-size: min(vw(16), 16px);
+    line-height: 1.25;
+    letter-spacing: -0.01em;
+    word-spacing: 1px;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    color: var(--black);
+    @media (max-width: $phone) {
+        font-size: vw_m(16);
+    }
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    width: 100vw;
+    overflow-x: hidden;
+}
+
+html,
+body {
+    scrollbar-width: thin;
+    scrollbar-color: var(--primary) var(--white);
+
+    &::-webkit-scrollbar {
+        width: 10px;
+    }
+
+    &::-webkit-scrollbar-track {
+        background: var(--white);
+    }
+
+    &::-webkit-scrollbar-thumb {
+        background-color: var(--primary);
+        border-radius: 5px;
+        border: 2px solid var(--white);
+    }
+}

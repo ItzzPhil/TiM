@@ -1,0 +1,18 @@
+$phone: 767px;
+$tablet: 1200px;
+$laptop: 1600px;
+$fullHD: 1920px;
+$screen2k: 2400px;
+$projectWidth: 1920;
+$projectWidthTablet: 768;
+$projectWidthMobile: 375;
+
+:root {
+    --white: #fff;
+    --black: #222;
+    --primary: #888;
+    --transition: 0.3s all ease-in-out;
+    --font-primary: Roboto, serif;
+    --font-secondary: 'Times New Roman', sans-serif;
+    --phone-w: #{$phone};
+}

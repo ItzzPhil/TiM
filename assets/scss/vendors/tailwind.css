@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    @variants responsive {
+        .--font-primary {
+            font-family: var(--font-primary);
+        }
+
+        .--font-secondary {
+            font-family: var(--font-secondary);
+            letter-spacing: 0;
+        }
+    }
+}
+
+@layer utilities {
+    @variants responsive {
+        .col-span-full-2 {
+            grid-column: 2 / -2;
+        }
+
+        .col-span-full-3 {
+            grid-column: 3 / -3;
+        }
+
+        .w-full-2 {
+            width: 200%;
+        }
+        .w-full-3 {
+            width: 300%;
+        }
+        .w-full-4 {
+            width: 400%;
+        }
+        .h-screen-2 {
+            height: 200vh;
+        }
+        .h-screen-3 {
+            height: 300vh;
+        }
+
+        /* 100vh fix for mobile devices, requires "100vhFix.js" */
+        .h-screen {
+            height: 100vh;
+            height: calc(var(--vh, 1vh) * 100);
+        }
+    }
+}
