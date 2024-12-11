@@ -1,5 +1,5 @@
 <template>
-    <main class="h-screen w-screen">
+    <main class="">
         <div class="p-6 font-extrabold text-center text-8">
             <div class="">TEST Osiągnięcia</div>
         </div>
