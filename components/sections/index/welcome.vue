@@ -19,12 +19,12 @@
                 items-start
             "
         >
-            <div class="w-160 p-10 flex justify-between">
+            <div class="w-160 p-10 flex gap-16">
+                <img :src="require('/assets/img/megaphone_peach.png')" alt="" class="h-30 -rotate-12" />
                 <div class="">
                     <div class="text-9">Zapraszamy do Koła <br />Turystyki i Marketingu!!!</div>
                     <div class="text-6 pt-4">Z nami rozwiniesz skrzydła!</div>
                 </div>
-                <img :src="require('/assets/img/megaphone_peach.png')" alt="" class="h-30 -rotate-12" />
             </div>
         </div>
     </section>
