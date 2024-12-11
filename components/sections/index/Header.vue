@@ -2,9 +2,9 @@
     <section class="flex justify-between content-center py-6 px-5 text-black text-6 bg-[#EAA45D]">
         <div class="text-8">Koło Turystyki i Marketingu</div>
         <div class="flex gap-3 content-center">
-            <a href="/TiM/" class="_buttons">Strona Główna</a>
-            <a href="/TiMGallery/" class="_buttons">Galeria</a>
-            <a href="/TiMContact/" class="_buttons">Kontakt</a>
+            <a href="/" class="_buttons">Strona Główna</a>
+            <a href="/gallery/" class="_buttons">Galeria</a>
+            <a href="/contact/" class="_buttons">Kontakt</a>
         </div>
     </section>
 </template>
@@ -22,7 +22,7 @@ export default {}
     border-left-color: #c9c9c9;
     border-bottom-color: #4b5563;
     border-right-color: #4b5563;
-    transition: 0.3s;
+    transition: background-color 0.3s, border-color 0.3s;
     border-radius: 0.375rem;
     &:hover {
         background-color: #e59240;

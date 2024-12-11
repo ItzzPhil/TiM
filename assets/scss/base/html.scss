@@ -11,9 +11,9 @@ html {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     color: var(--black);
-    @media (max-width: $phone) {
-        font-size: vw_m(16);
-    }
+    // @media (max-width: $phone) {
+    //     font-size: vw_m(16);
+    // }
 }
 
 *,
@@ -26,6 +26,7 @@ html {
 body {
     width: 100vw;
     overflow-x: hidden;
+    background-color: #eaa45d;
 }
 
 html,
