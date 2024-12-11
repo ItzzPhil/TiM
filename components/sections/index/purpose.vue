@@ -1,5 +1,5 @@
 <template>
-    <main class="">
+    <section class="">
         <div class="text-9 text-center font-bold">Nasza misja oraz co możemy zaoferować</div>
         <div class="grid grid-cols-4 px-50 py-11 text-5 gap-8">
             <div class="grid gap-5 items-center">
@@ -13,10 +13,9 @@
                     zachęcające do eksploracji nowatorskich pomysłów.
                 </div>
             </div>
-            <div class="col-span-2">
-                <img
-                    src="https://sumbcq.webwave.dev/files/dynamicContent/sites/sumbcq/images/pl/webpage_1/lqijiye9/element_60/rwdMode_1/450x600/unsplash-image.webp"
-                    alt=""
+            <div class="col-span-2 h-124">
+                <Photo
+                    src_dsk="https://sumbcq.webwave.dev/files/dynamicContent/sites/sumbcq/images/pl/webpage_1/lqijiye9/element_60/rwdMode_1/450x600/unsplash-image.webp"
                 />
             </div>
             <div class="grid gap-5 items-center">
@@ -31,10 +30,12 @@
                 </div>
             </div>
         </div>
-    </main>
+    </section>
 </template>
 
 <script>
+import Photo from '~/components/layout/Photo.vue'
+
 export default {}
 </script>
 

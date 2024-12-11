@@ -1,8 +1,10 @@
 <template>
-    <main class="w-screen text-white max-w-[1920px] mx-auto">
+    <main class="">
         <welcome />
-        <aboutUs />
-        <purpose />
+        <div class="max-w-[1920px] mx-auto">
+            <aboutUs />
+            <purpose />
+        </div>
     </main>
 </template>
 

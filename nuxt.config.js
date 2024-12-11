@@ -8,8 +8,9 @@ export default {
 
     // Global page headers: https://go.nuxtjs.dev/config-head
     head: {
-        title: 'Page title',
-        description: 'Page description',
+        title: 'Koło Naukowe Turystyki i Marketingu',
+        description:
+            'Jesteśmy dynamiczną społecznością studencką zafascynowaną ekonomią oraz nowoczesnymi usługami. Nasze koło skupia się na rozwoju wiedzy poprzez badania, praktykę oraz interaktywne seminaria. Tworzymy inspirujące projekty badawcze i integrujące wyjazdy, zapewniając platformę do eksploracji najnowszych trendów w tych dziedzinach. ',
         htmlAttrs: {
             lang: 'en',
         },
@@ -22,14 +23,15 @@ export default {
             {
                 hid: 'description',
                 name: 'description',
-                content: 'Page description',
+                content:
+                    'Jesteśmy dynamiczną społecznością studencką zafascynowaną ekonomią oraz nowoczesnymi usługami. Nasze koło skupia się na rozwoju wiedzy poprzez badania, praktykę oraz interaktywne seminaria. Tworzymy inspirujące projekty badawcze i integrujące wyjazdy, zapewniając platformę do eksploracji najnowszych trendów w tych dziedzinach. ',
             },
         ],
         link: [
             { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
             {
                 rel: 'stylesheet',
-                href: 'https://fonts.googleapis.com/css2?family=Roboto&display=swap',
+                href: 'https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap',
                 defer: true,
                 async: true,
             },

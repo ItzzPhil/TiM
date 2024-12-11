@@ -9,11 +9,11 @@ module.exports = {
     theme: {
         extend: {
             colors: {
-                black: '#222',
+                black: '#211b19',
                 fullBlack: '#000',
                 primary: '#888',
             },
-			fontWeight: () => {
+            fontWeight: () => {
                 let ret = {}
                 for (let i = 100; i <= 900; i += 100) {
                     ret[i] = `${i}`
