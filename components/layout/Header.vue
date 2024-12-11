@@ -1,6 +1,10 @@
 <template>
     <section class="flex justify-between content-center py-6 px-12 fixed w-full left-0 top-0 z-50" :class="{ _bg: bg }">
-        <div class="text-13 font-bold">Koło Naukowe Turystyki i Marketingu</div>
+        <div class="flex gap-5">
+            <div class="h-18"><Photo :src_dsk="require('assets/img/logo.png')" /></div>
+
+            <div class="text-13 font-bold">Koło Naukowe Turystyki i Marketingu</div>
+        </div>
         <div class="flex gap-12 items-center text-8">
             <a href="/" class="_buttons">Strona Główna</a>
             <a href="/galeria/" class="_buttons">Galeria</a>
