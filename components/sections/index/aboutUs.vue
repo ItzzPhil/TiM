@@ -27,24 +27,24 @@ export default {
     data: () => ({
         people: [
             {
-                name: 'John Doe',
-                img: require('assets/img/people.png'),
-                description: 'bleh',
+                name: 'Konrad Hryniewicz',
+                img: require('assets/img/K_Hryniewicz.jpg'),
+                description: 'Opiekun Koła Naukowego',
             },
             {
-                name: 'John Doe',
-                img: require('assets/img/people.png'),
-                description: 'bleh',
+                name: 'Patrycja Krupa',
+                img: require('assets/img/P_Krupa.jpg'),
+                description: '',
             },
             {
-                name: 'John Doe',
-                img: require('assets/img/people.png'),
-                description: 'bleh',
+                name: 'Filip Radzimiński',
+                img: require('assets/img/F_Radziminski.jpg'),
+                description: '',
             },
             {
-                name: 'John Doe',
-                img: require('assets/img/people.png'),
-                description: 'bleh',
+                name: 'Julia Krawczyk',
+                img: require('assets/img/J_Krawczyk.jpg'),
+                description: '',
             },
         ],
     }),
