@@ -1,28 +1,25 @@
 <template>
-    <section class="flex justify-between content-center py-8 px-8 bg-gray-900 text-white text-6">
+    <section class="grid grid-cols-2 justify-between content-center py-8 px-8 bg-gray-900 text-white text-6">
         <div class="flex gap-5">
             <a href="https://umg.edu.pl/" class="flex flex-col gap-3 content-center p-4 _buttons">
-                <img
-                    src="https://umg.edu.pl/sites/default/files/zalaczniki/umg-inw.png"
-                    class="h-[12rem] object-scale-down"
-                    alt=""
-                />
+                <img :src="require('/assets/img/umg-inw.png')" class="h-[12rem] object-scale-down" alt="" />
                 <div class="text-center">
                     Uniwersytet Morski<br />
                     w Gdyni
                 </div>
             </a>
             <a href="https://wznj.umg.edu.pl/" class="flex flex-col gap-3 content-center p-4 _buttons">
-                <img
-                    src="https://umg.edu.pl/sites/default/files/zalaczniki/wznj-inw.png"
-                    class="h-[12rem] object-scale-down"
-                    alt=""
-                />
+                <img :src="require('/assets/img/wznj-inw.png')" class="h-[12rem] object-scale-down" alt="" />
                 <div class="text-center">Wydział zarządzania<br />i nauk o jakości</div>
             </a>
         </div>
 
-        <div class="">Kontakt</div>
+        <div class="grid gap-4 text-center content-center">
+            <div class="text-10">Uniwersytet Morski w Gdyni</div>
+            <div class="text-8">Wydział Zarządzania i Nauk o Jakości</div>
+            <div class="">Ul. Morska 81/87</div>
+            <div class="">81-225 Gdynia</div>
+        </div>
     </section>
 </template>
 
