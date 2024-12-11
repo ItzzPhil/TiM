@@ -8,8 +8,8 @@
             />
         </div> -->
         <div class="text-center">
-            <div class="font-extrabold text-14 pb-8">O nas</div>
-            <div class="text-6 pr-8 leading-16">
+            <div class="font-bold text-9 pb-8">O nas</div>
+            <div class="leading-16 px-40 text-5">
                 Jesteśmy dynamiczną społecznością studencką zafascynowaną ekonomią oraz nowoczesnymi usługami. Nasze
                 koło skupia się na rozwoju wiedzy poprzez badania, praktykę oraz interaktywne seminaria. Tworzymy
                 inspirujące projekty badawcze i integrujące wyjazdy, zapewniając platformę do eksploracji najnowszych

@@ -1,6 +1,6 @@
 <template>
-    <main class="h-screen w-screen bg-black">
-        <div class="text-yellow-600 p-6 font-extrabold text-center text-8">
+    <main class="h-screen w-screen">
+        <div class="p-6 font-extrabold text-center text-8">
             <div class="">TEST Galeria</div>
         </div>
     </main>

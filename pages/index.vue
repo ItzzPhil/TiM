@@ -4,6 +4,7 @@
         <div class="max-w-[1920px] mx-auto">
             <aboutUs />
             <purpose />
+            <trips />
         </div>
     </main>
 </template>

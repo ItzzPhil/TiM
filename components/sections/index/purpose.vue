@@ -42,13 +42,13 @@ export default {}
 <style lang="scss" scoped>
 ._textR {
     // max-width: 20rem;
-    border-left: 0.75rem solid #173f35;
+    border-left: 0.75rem solid var(--black);
     border-radius: 1rem;
     padding-left: 1rem;
 }
 ._textL {
     text-align: end;
-    border-right: 0.75rem solid #173f35;
+    border-right: 0.75rem solid var(--black);
     border-radius: 1rem;
     padding-right: 1rem;
 }

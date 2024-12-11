@@ -24,8 +24,13 @@
         <div class="grid gap-4 text-center content-center">
             <div class="text-8">Kontakt</div>
             <div class="text-6">Konrad Hryniewicz</div>
-            <a class="" href="mailto:email@example.com">email@example.com</a>
-            <a class="" href="tel:123456789">123-456-789</a>
+            <div class="grid gap-1">
+                <div class="">Katedra Marketingu i Metod Ilościowych</div>
+                <div class="">Pokój B430</div>
+            </div>
+
+            <a class="" href="mailto:k.hryniewicz@wznj.umg.edu.pl">k.hryniewicz@wznj.umg.edu.pl</a>
+            <a href="tel:585586454">58 55 86 454</a>
         </div>
     </section>
 </template>
