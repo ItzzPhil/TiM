@@ -13,10 +13,8 @@
                     zachęcające do eksploracji nowatorskich pomysłów.
                 </div>
             </div>
-            <div class="col-span-2 h-124">
-                <Photo
-                    src_dsk="https://sumbcq.webwave.dev/files/dynamicContent/sites/sumbcq/images/pl/webpage_1/lqijiye9/element_60/rwdMode_1/450x600/unsplash-image.webp"
-                />
+            <div class="col-span-2 h-128 px-20">
+                <Photo :src_dsk="require('assets/img/Purpose.png')" />
             </div>
             <div class="grid gap-5 items-center">
                 <div class="_textR">

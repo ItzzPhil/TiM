@@ -1,12 +1,5 @@
 <template>
     <section class="py-30 px-70">
-        <!-- <div class="h-[40rem] w-full">
-            <img
-                src="https://sumbcq.webwave.dev/files/dynamicContent/sites/sumbcq/images/pl/webpage_1/lqijiye9/element_19/rwdMode_1/550x600/unsplash-image.webp"
-                class="h-full w-full object-cover"
-                alt=""
-            />
-        </div> -->
         <div class="text-center">
             <div class="font-bold text-9 pb-8">O nas</div>
             <div class="leading-16 px-40 text-5">
