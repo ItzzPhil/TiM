@@ -59,18 +59,18 @@ export default {
     data: () => ({
         galleryTorunCertificates: [
             {
-                img: require('assets/img/gallery/CertyfikatOla.png'),
+                img: require('assets/img/gallery/CertyfikatOla.jpg'),
             },
             {
-                img: require('assets/img/gallery/CertyfikatPawel.png'),
+                img: require('assets/img/gallery/CertyfikatPawel.jpg'),
             },
         ],
         galleryPoster: [
             {
-                img: require('assets/img/gallery/posterImg1.png'),
+                img: require('assets/img/gallery/posterImg1.jpg'),
             },
             {
-                img: require('assets/img/gallery/posterImg2.png'),
+                img: require('assets/img/gallery/posterImg2.jpg'),
             },
         ],
     }),

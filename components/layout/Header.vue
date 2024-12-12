@@ -3,7 +3,7 @@
         <div class="flex gap-5">
             <div class="h-18"><Photo :src_dsk="require('assets/img/logo.png')" /></div>
 
-            <div class="text-13 font-bold">Koło Naukowe Turystyki i Marketingu</div>
+            <div class="text-13 font-bold _title">Koło Naukowe Turystyki i Marketingu</div>
         </div>
         <div class="flex gap-12 items-center text-8">
             <a href="/" class="_buttons">Strona Główna</a>
@@ -28,6 +28,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+@import url('https://fonts.google.com/specimen/Anton');
 // ._buttons {
 //     padding: 3px;
 //     background-color: white;
@@ -54,5 +55,10 @@ section {
         background-color: #e9d2b9;
         box-shadow: 0 0 20px #0002;
     }
+}
+._title {
+    font-size: 3.25rem;
+    font-weight: 700;
+    font-family: 'Anton', sans-serif;
 }
 </style>

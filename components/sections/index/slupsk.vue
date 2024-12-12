@@ -23,24 +23,24 @@ export default {
     data: () => ({
         gallerySlupsk: [
             {
-                img: require('assets/img/gallery/slupskPatrycja.png'),
+                img: require('assets/img/gallery/slupskPatrycja.jpg'),
             },
             {
-                img: require('assets/img/gallery/slupskPaulina.png'),
+                img: require('assets/img/gallery/slupskPaulina.jpg'),
             },
             {
-                img: require('assets/img/gallery/slupskAleks.png'),
+                img: require('assets/img/gallery/slupskAleks.jpg'),
             },
         ],
         gallerySlupskCertificates: [
             {
-                img: require('assets/img/gallery/slupskCertyfikatPatrycja.png'),
+                img: require('assets/img/gallery/slupskCertyfikatPatrycja.jpg'),
             },
             {
-                img: require('assets/img/gallery/slupskCertyfikatPaulina.png'),
+                img: require('assets/img/gallery/slupskCertyfikatPaulina.jpg'),
             },
             {
-                img: require('assets/img/gallery/slupskCertyfikatAleks.png'),
+                img: require('assets/img/gallery/slupskCertyfikatAleks.jpg'),
             },
         ],
     }),
