@@ -7,7 +7,7 @@
         </div>
         <div class="flex gap-12 items-center text-8">
             <a href="/" class="_buttons">Strona Główna</a>
-            <a href="/galeria/" class="_buttons">Galeria</a>
+            <a href="/inicjatywy/" class="_buttons">Inicjatywy</a>
             <a href="/osiagniecia/" class="_buttons">Osiągnięcia</a>
         </div>
     </section>

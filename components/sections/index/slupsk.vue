@@ -1,8 +1,17 @@
 <template>
-    <section>
-        <div class="text-5 py-6">Wyjazd do Słupska w ramach koła naukowego 15 czerwca 2023r.</div>
+    <section class="">
+        <div class="text-7 py-6 text-center">Wyjazd do Słupska w ramach koła naukowego 15 czerwca 2023r.</div>
         <div class="flex justify-center gap-4">
             <div class="w-120 h-90" v-for="photo in gallerySlupsk">
+                <Photo :src_dsk="photo.img" />
+            </div>
+        </div>
+        <div class="text-5 py-6 text-center">
+            Certyfikaty przyznane Patrycji Krupie, Paulinie Mikule oraz Aleksandrowi Sapko za wygłoszone referaty pt.
+            "Zmiany preferencji zakwaterowania podczas krajowych wyjazdów Polaków okresie przed i po pandemii Covid19"
+        </div>
+        <div class="flex justify-center gap-4">
+            <div class="w-120 h-90" v-for="photo in gallerySlupskCertificates">
                 <Photo :src_dsk="photo.img" />
             </div>
         </div>
@@ -14,13 +23,24 @@ export default {
     data: () => ({
         gallerySlupsk: [
             {
-                img: require('assets/img/gallery/slupsk1.webp'),
+                img: require('assets/img/gallery/slupskPatrycja.png'),
             },
             {
-                img: require('assets/img/gallery/slupsk2.webp'),
+                img: require('assets/img/gallery/slupskPaulina.png'),
             },
             {
-                img: require('assets/img/gallery/slupsk3.webp'),
+                img: require('assets/img/gallery/slupskAleks.png'),
+            },
+        ],
+        gallerySlupskCertificates: [
+            {
+                img: require('assets/img/gallery/slupskCertyfikatPatrycja.png'),
+            },
+            {
+                img: require('assets/img/gallery/slupskCertyfikatPaulina.png'),
+            },
+            {
+                img: require('assets/img/gallery/slupskCertyfikatAleks.png'),
             },
         ],
     }),

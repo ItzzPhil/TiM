@@ -1,12 +1,12 @@
 <template>
-    <main class="text-center pb-12">
-        <div class="pt-40 pb-6 font-bold text-9">
-            <div class="">Work In Progress</div>
-            <div class="flex justify-center">
-                <div class="w-185 h-185">
-                    <Photo class="" :src_dsk="require('assets/img/patrick.png')" />
-                </div>
-            </div>
+    <main class="pb-12 px-40 max-w-[1920px] mx-auto">
+        <div class="pt-40 pb-6 font-bold text-9 text-center">
+            <div class="">Osiągnięcia Koła Naukowego</div>
+        </div>
+        <div class="grid gap-6">
+            <slupsk />
+            <conferenceTrends />
+            <conferenceProblems />
         </div>
     </main>
 </template>
