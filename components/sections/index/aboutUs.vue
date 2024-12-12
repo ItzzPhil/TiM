@@ -1,5 +1,5 @@
 <template>
-    <section class="py-30 px-70">
+    <section class="py-20 px-70">
         <div class="text-center">
             <div class="font-bold text-9 pb-8">O nas</div>
             <div class="leading-16 px-35 text-5">
