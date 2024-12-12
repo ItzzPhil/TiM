@@ -1,17 +1,19 @@
 <template>
-    <section>
+    <section class="">
         <div class="text-5 py-6">Dni turystyki w Gdańsku</div>
-        <div class="flex justify-center gap-4 w-311">
-            <div class="grid gap-4">
-                <div class="">
-                    <Photo class="" :src_dsk="require('assets/img/gdansk1.webp')" />
+        <div class="flex justify-center h-221 overflow-hidden">
+            <div class="flex w-312 gap-4 justify-center">
+                <div class="grid gap-4">
+                    <div class="">
+                        <Photo class="" :src_dsk="require('assets/img/gallery/gdansk1.webp')" />
+                    </div>
+                    <div class="">
+                        <Photo class="" :src_dsk="require('assets/img/gallery/gdansk2.webp')" />
+                    </div>
                 </div>
                 <div class="">
-                    <Photo class="" :src_dsk="require('assets/img/gdansk2.webp')" />
+                    <Photo class="" :src_dsk="require('assets/img/gallery/gdansk3.webp')" />
                 </div>
-            </div>
-            <div class="">
-                <Photo class="" :src_dsk="require('assets/img/gdansk3.webp')" />
             </div>
         </div>
     </section>

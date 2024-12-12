@@ -28,22 +28,22 @@ export default {
         people: [
             {
                 name: 'Konrad Hryniewicz',
-                img: require('assets/img/K_Hryniewicz.jpg'),
+                img: require('assets/img/people/K_Hryniewicz.jpg'),
                 description: 'Opiekun Koła Naukowego',
             },
             {
                 name: 'Patrycja Krupa',
-                img: require('assets/img/P_Krupa.jpg'),
+                img: require('assets/img/people/P_Krupa.jpg'),
                 description: '',
             },
             {
                 name: 'Filip Radzimiński',
-                img: require('assets/img/F_Radziminski.jpg'),
+                img: require('assets/img/people/F_Radziminski.jpg'),
                 description: '',
             },
             {
                 name: 'Julia Krawczyk',
-                img: require('assets/img/J_Krawczyk.jpg'),
+                img: require('assets/img/people/J_Krawczyk.jpg'),
                 description: '',
             },
         ],
