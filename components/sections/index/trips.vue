@@ -19,7 +19,7 @@
             </div>
             <div class="grid gap-6">
                 <div class="">
-                    W środę 4 października w siedzibie Europejskiego Centrum Solidarności w Gdańsku odbyły się
+                    W środę 4 października 2023r. w siedzibie Europejskiego Centrum Solidarności w Gdańsku odbyły się
                     Regionalne obchody Światowego Dnia Turystyki, w którym brali udział studenci III roku Zarządzania
                     Turystyki i Hotelarstwa. Podczas tego wydarzenia wręczone zostały nagrody i wyróżnienia za zasługi
                     dla rozwoju turystyki w województwie pomorskim. W grupie nagrodzonych pojawiła się opiekun koła
