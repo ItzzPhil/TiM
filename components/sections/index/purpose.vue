@@ -4,13 +4,13 @@
         <div class="grid grid-cols-4 px-50 py-11 text-5 gap-8">
             <div class="grid gap-5 items-center">
                 <div class="_textL">
-                    Rozwój umiejętności analitycznych w obszarze ekonomii i usług. Tworzenie innowacyjnych projektów
-                    badawczych. Budowanie sieci kontaktów z profesjonalistami z branży
+                    Rozwój umiejętności analitycznych w obszarze turystyki i martetingu. Tworzenie innowacyjnych
+                    projektów badawczych. Budowanie sieci kontaktów z profesjonalistami z branży
                 </div>
 
                 <div class="_textL">
-                    Interaktywne seminaria prezentujące najnowsze tendencje w dziedzinie ekonomii. Projekty badawcze
-                    zachęcające do eksploracji nowatorskich pomysłów.
+                    Interaktywne seminaria prezentujące najnowsze tendencje w dziedzinie turystyki i marketingu.
+                    Projekty badawcze zachęcające do eksploracji nowatorskich pomysłów.
                 </div>
             </div>
             <div class="col-span-2 h-128 px-20">

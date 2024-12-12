@@ -3,10 +3,10 @@
         <div class="text-center">
             <div class="font-bold text-9 pb-8">O nas</div>
             <div class="leading-16 px-40 text-5">
-                Jesteśmy dynamiczną społecznością studencką zafascynowaną ekonomią oraz nowoczesnymi usługami. Nasze
-                koło skupia się na rozwoju wiedzy poprzez badania, praktykę oraz interaktywne seminaria. Tworzymy
-                inspirujące projekty badawcze i integrujące wyjazdy, zapewniając platformę do eksploracji najnowszych
-                trendów w tych dziedzinach.
+                Jesteśmy dynamiczną społecznością studencką zafascynowaną turystyką i marketingiem. Nasze koło skupia
+                się na rozwoju wiedzy poprzez badania, praktykę oraz interaktywne seminaria. Tworzymy inspirujące
+                projekty badawcze i integrujące wyjazdy, zapewniając platformę do eksploracji najnowszych trendów w tych
+                dziedzinach.
             </div>
             <div class="flex gap-6 pt-8 justify-center">
                 <div class="w-60" v-for="person in people">
