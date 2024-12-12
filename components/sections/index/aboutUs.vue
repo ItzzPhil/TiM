@@ -43,7 +43,7 @@ export default {
             },
             {
                 name: 'Aleksander Sapko',
-                img: require('assets/img/people/people.png'),
+                img: require('assets/img/people/A_Sapko.jpg'),
                 description: 'Sekretarz',
             },
         ],
