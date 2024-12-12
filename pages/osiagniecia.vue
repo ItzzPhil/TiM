@@ -4,9 +4,9 @@
             <div class="">Osiągnięcia Koła Naukowego</div>
         </div>
         <div class="grid gap-6">
+            <conferenceProblems />
             <slupsk />
             <conferenceTrends />
-            <conferenceProblems />
         </div>
     </main>
 </template>
