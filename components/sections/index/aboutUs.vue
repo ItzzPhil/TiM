@@ -30,7 +30,7 @@
             </div>
             <div class="flex gap-6 pt-8 justify-center">
                 <div class="text-5">
-                    Pozostali członkowie: XYZ
+                    <b>Pozostali członkowie: </b>Wiktoria Dubiel, Aleksandra Kowalska, Marysia Leśniewska, Anna Panasiuk, Karolina Rodak, Patrycja Słabińska, Asia Sygidus, <br>Kinga Szulkowska, Kinga Zabrodzka
                 </div>
             </div>
         </div>
