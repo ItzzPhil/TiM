@@ -28,7 +28,7 @@ export default {
             },
         ],
         link: [
-            { rel: 'icon', type: 'image/x-icon', href: 'assets/img/favicon.ico' },
+            { rel: 'icon', type: 'image/x-icon', href: require('assets/img/favicon.ico') },
             {
                 rel: 'stylesheet',
                 href: 'https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap',
