@@ -18,6 +18,16 @@
                     <div class="">{{ person.description }}</div>
                 </div>
             </div>
+            <div class="flex gap-6 pt-8 justify-center">
+                <div class="w-40">
+                    <div class="w-full aspect-square border-[3px] border-black rounded-full overflow-hidden">
+                        <Photo :src_dsk="require('assets/img/people/F_Radziminski.jpg')" />
+                    </div>
+
+                    <div class="text-5">Filip Radzimiński</div>
+                    <div class="">Technik / Twórca strony</div>
+                </div>
+            </div>
         </div>
     </section>
 </template>
