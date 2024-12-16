@@ -19,16 +19,6 @@
                 </div>
             </div>
             <div class="flex gap-6 pt-8 justify-center">
-                <div class="w-40">
-                    <div class="w-full aspect-square border-[3px] border-black rounded-full overflow-hidden">
-                        <Photo :src_dsk="require('assets/img/people/F_Radziminski.jpg')" />
-                    </div>
-
-                    <div class="text-5">Filip Radzimiński</div>
-                    <div class="">Technik / Twórca strony</div>
-                </div>
-            </div>
-            <div class="flex gap-6 pt-8 justify-center">
                 <div class="text-5">
                     <b>Pozostali członkowie: </b>Wiktoria Dubiel, Aleksandra Kowalska, Marysia Leśniewska, Anna Panasiuk, Karolina Rodak, Patrycja Słabińska, Asia Sygidus, <br>Kinga Szulkowska, Kinga Zabrodzka
                 </div>
@@ -60,6 +50,11 @@ export default {
                 name: 'Aleksander Sapko',
                 img: require('assets/img/people/A_Sapko.jpg'),
                 description: 'Sekretarz',
+            },
+            {
+                name: 'Filip Radzimiński',
+                img: require('assets/img/people/F_Radziminski.jpg'),
+                description: 'Technik / Twórca strony',
             },
         ],
     }),
