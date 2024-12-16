@@ -28,6 +28,11 @@
                     <div class="">Technik / Twórca strony</div>
                 </div>
             </div>
+            <div class="flex gap-6 pt-8 justify-center">
+                <div class="text-5">
+                    Pozostali członkowie: XYZ
+                </div>
+            </div>
         </div>
     </section>
 </template>
