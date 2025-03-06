@@ -4,7 +4,8 @@
             <div class="">Inicjatywy Koła Naukowego</div>
         </div>
 
-        <dniOtwarte />
+        <dniOtwarte-12-24 />
+        <dniOtwarte-03-24 />
         <warsawFair />
     </main>
 </template>

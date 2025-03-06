@@ -1,5 +1,5 @@
 <template>
-    <section class="pt-6">
+    <section class="">
         <div class="">
             <div class="text-7 py-6 text-center">Targi Turystyczne w Warszawie</div>
             <div class="text-5 pb-9">

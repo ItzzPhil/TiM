@@ -27,19 +27,19 @@ export default {
     data: () => ({
         gallerySlupsk: [
             {
-                img: require('assets/img/gallery/dniOtwarte1.jpg'),
+                img: require('assets/img/gallery/dniOtwarte_03-24_1.jpg'),
             },
             {
-                img: require('assets/img/gallery/dniOtwarte2.jpg'),
+                img: require('assets/img/gallery/dniOtwarte_03-24_2.jpg'),
             },
             {
-                img: require('assets/img/gallery/dniOtwarte3.jpg'),
+                img: require('assets/img/gallery/dniOtwarte_03-24_3.jpg'),
             },
             {
-                img: require('assets/img/gallery/dniOtwarte4.jpg'),
+                img: require('assets/img/gallery/dniOtwarte_03-24_4.jpg'),
             },
             {
-                img: require('assets/img/gallery/dniOtwarte5.jpg'),
+                img: require('assets/img/gallery/dniOtwarte_03-24_5.jpg'),
             },
         ],
     }),

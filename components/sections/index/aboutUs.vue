@@ -20,7 +20,9 @@
             </div>
             <div class="flex gap-6 pt-8 justify-center">
                 <div class="text-5">
-                    <b>Pozostali członkowie: </b>Wiktoria Dubiel, Aleksandra Kowalska, Marysia Leśniewska, Anna Panasiuk, Karolina Rodak, Patrycja Słabińska, Asia Sygidus, <br>Kinga Szulkowska, Kinga Zabrodzka
+                    <b>Pozostali członkowie: </b>Wiktoria Dubiel, Aleksandra Kowalska, Marysia Leśniewska, Anna
+                    Panasiuk, Karolina Rodak, Patrycja Słabińska, Asia Sygidus, <br>Kinga Szulkowska, Kinga Zabrodzka,
+                    Asia Gałecka
                 </div>
             </div>
         </div>
