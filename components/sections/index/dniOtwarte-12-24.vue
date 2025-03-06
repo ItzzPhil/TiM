@@ -13,27 +13,29 @@
                     <div class="grid gap-4 pb-4">
                         Atrakcje na stoisku Koła Turystyki i Marketingu:
                         <li>
-                            Quiz z wiedzy o turystyce i marketingu – uczestnicy mogli sprawdzić swoją wiedzę na temat
+                            <b>Quiz z wiedzy o turystyce i marketingu:</b> uczestnicy mogli sprawdzić swoją wiedzę na
+                            temat
                             branży, odpowiadając na pytania dotyczące podstawowych zagadnień związanych z turystyką i
                             marketingiem.
                         </li>
                         <li>
-                            Zgadywanie języka po treści napisu – zabawa polegała na rozpoznawaniu, w jakim języku
-                            napisane
-                            są przygotowane fragmenty tekstów, co cieszyło się dużym zainteresowaniem i angażowało osoby
-                            w
-                            różnym wieku.
+                            <b>Zgadywanie języka po treści napisu:</b> zabawa polegała na rozpoznawaniu, w jakim języku
+                            napisane są przygotowane fragmenty tekstów, co cieszyło się dużym zainteresowaniem i
+                            angażowało osoby
+                            w różnym wieku.
                         </li>
                     </div>
                     <div class="grid gap-4">
-                        Wystawa przedmiotów przedwojennych – na stoisku zaprezentowano ciekawe eksponaty z nawiązanej
-                        współpracy
-                        z Muzeum Bankowiec w Gdyni, które pokazywały historię codziennego życia, takie jak:
+                        <div>
+                            Wystawa przedmiotów przedwojennych: na stoisku zaprezentowano ciekawe eksponaty z nawiązanej
+                            współpracy z Muzeum Bankowiec w Gdyni, które pokazywały historię codziennego życia, takie
+                            jak:
+                        </div>
                         <li>
-                            Młynek do mielenia mięsa,
+                            <b>Młynek do mielenia mięsa,</b>
                         </li>
                         <li>
-                            Młynek do kawy.
+                            <b>Młynek do kawy.</b>
                         </li>
                         Eksponaty te pozwoliły uczestnikom przenieść się w czasie i poczuć klimat przedwojennych lat.
                         Dni Otwarte były doskonałą okazją do zaprezentowania działalności Koła oraz nawiązania kontaktu

@@ -13,16 +13,16 @@
                 <div class="grid gap-4 pb-4">
                     Punkty wyjazdu:
                     <li>
-                        Prezentacje i panele dyskusyjne: Uczestnicy mieli okazję wysłuchać inspirujących prelekcji na
+                        <b>Prezentacje i panele dyskusyjne:</b> Uczestnicy mieli okazję wysłuchać inspirujących prelekcji na
                         temat nowoczesnych trendów w turystyce, takich jak zrównoważony rozwój, cyfryzacja czy turystyka
                         tematyczna.
                     </li>
                     <li>
-                        Zwiedzanie stoisk wystawców: Wyjazd umożliwił zapoznanie się z ofertami czołowych biur podróży,
+                        <b>Zwiedzanie stoisk wystawców:</b> Wyjazd umożliwił zapoznanie się z ofertami czołowych biur podróży,
                         hoteli oraz regionów turystycznych z całego świata.
                     </li>
                     <li>
-                        Nawiązywanie kontaktów: Uczestnicy mieli okazję do rozmów z przedstawicielami branży, co może
+                        <b>Nawiązywanie kontaktów:</b> Uczestnicy mieli okazję do rozmów z przedstawicielami branży, co może
                         zaowocować przyszłą współpracą, np. przy organizacji praktyk studenckich czy projektów
                         badawczych.
                     </li>
