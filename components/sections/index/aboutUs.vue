@@ -18,6 +18,11 @@
                     <div class="">{{ person.description }}</div>
                 </div>
             </div>
+            <div class="flex gap-6 pt-8 justify-center">
+                <div class="text-5">
+                    <b>Pozostali członkowie: </b>Wiktoria Dubiel, Aleksandra Kowalska, Marysia Leśniewska, Anna Panasiuk, Karolina Rodak, Patrycja Słabińska, Asia Sygidus, <br>Kinga Szulkowska, Kinga Zabrodzka
+                </div>
+            </div>
         </div>
     </section>
 </template>
@@ -45,6 +50,11 @@ export default {
                 name: 'Aleksander Sapko',
                 img: require('assets/img/people/A_Sapko.jpg'),
                 description: 'Sekretarz',
+            },
+            {
+                name: 'Filip Radzimiński',
+                img: require('assets/img/people/F_Radziminski.jpg'),
+                description: 'Technik / Twórca strony',
             },
         ],
     }),
