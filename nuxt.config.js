@@ -10,7 +10,7 @@ export default {
     head: {
         title: 'Koło Naukowe Turystyki i Marketingu',
         description:
-            'Jesteśmy dynamiczną społecznością studencką zafascynowaną ekonomią oraz nowoczesnymi usługami. Nasze koło skupia się na rozwoju wiedzy poprzez badania, praktykę oraz interaktywne seminaria. Tworzymy inspirujące projekty badawcze i integrujące wyjazdy, zapewniając platformę do eksploracji najnowszych trendów w tych dziedzinach. ',
+            'Jesteśmy dynamiczną grupą studentów zafascynowanych światem turystyki, marketingu i nowoczesnych rozwiązań biznesowych. Nasze koło to przestrzeń dla kreatywnych pomysłów, praktycznych projektów i współpracy z profesjonalistami z branży. Organizujemy warsztaty, konferencje i wyjazdy studyjne, które pozwalają zdobywać wiedzę oraz doświadczenie w praktycznym działaniu.',
         htmlAttrs: {
             lang: 'en',
         },
